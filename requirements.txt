@@ -1,0 +1,9 @@
+numpy 
+sounddevice 
+scipy 
+langchain
+langchain-core 
+langchain-groq
+langgraph 
+groq 
+elevenlabs
