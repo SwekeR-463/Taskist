@@ -5,7 +5,7 @@ Taskist is a voice-activated todo list application that enables users to manage 
 
 ## Demo Video
 
-
+https://github.com/user-attachments/assets/1bbd3e28-8f77-4405-a51e-0582f4defb51
 
 
 
