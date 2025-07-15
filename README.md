@@ -1,6 +1,5 @@
 # Taskist
 
-## Description
 Taskist is a voice-activated todo list application that enables users to manage tasks using spoken commands. It records audio, transcribes it using Groq's Whisper API, processes commands to add, list, or remove tasks, and responds with spoken output via ElevenLabs. Taskist uses LangGraph to orchestrate the workflow without relying on any LLM calls.
 
 ## Demo Video
